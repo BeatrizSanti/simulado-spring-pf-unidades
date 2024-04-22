@@ -5,7 +5,7 @@ SIMULADO PARA CP II - **Java Advanced** aplicado em 22/04/2024.
 
 | ![](documentacao/fiap.jpg)               | **Java Advanced** |
 |------------------------------------------|-------------------|
-| **ALUNO:**                               | **TURMA:** 2TDSPF |
+| **ALUNO:** Beatriz Santi rm551856        | **TURMA:** 2TDSPF |
 | **PROFESSOR:** Benefrancis do Nascimento | 22/04/2024        |
 | **SIMULADO PARA CP II**                  | ****              |
 
